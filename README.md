@@ -1,4 +1,3 @@
-# Bimo
 ### Hi there!👋
 - 🌱 I’m currently learning computer science - intelligent systems in Trinity College Dublin
 - 📫 How to reach me: ruxu@tcd.ie 
